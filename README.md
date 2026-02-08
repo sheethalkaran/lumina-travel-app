@@ -5,7 +5,6 @@
 # Lumina - Travel App
 
 **Prototype Project** - Built to explore Google AI Studio capabilities and Gemini API integration.
-
 A travel planning application that leverages Google's Gemini AI to help users discover destinations and local cuisine recommendations.
 
 ## Run Locally
