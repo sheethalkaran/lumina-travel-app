@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Travel Discovery",
+  "description": "A premium, glass-morphic travel application powered by Gemini AI for discovering elegant destinations and planning bespoke journeys.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
