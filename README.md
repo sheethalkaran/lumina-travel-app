@@ -8,8 +8,7 @@
 
 A travel planning application that leverages Google's Gemini AI to help users discover destinations and local cuisine recommendations.
 
-## View the App
-[Open in AI Studio](https://ai.studio/apps/drive/1znzUr7zRx_hfo9dKRCPDen4oCnCXlPF4?fullscreenApplet=true)
+**[Open in AI Studio](https://ai.studio/apps/drive/1znzUr7zRx_hfo9dKRCPDen4oCnCXlPF4?fullscreenApplet=true)**
 
 ## Run Locally
 
